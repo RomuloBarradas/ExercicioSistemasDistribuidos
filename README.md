@@ -1,2 +1,2 @@
 # ExercicioSistemasDistribuidos
- Atividade
+ Atividade em sala de aula
